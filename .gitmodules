@@ -1,0 +1,3 @@
+[submodule "omniauth-microsoft-office365"]
+	path = omniauth-microsoft-office365
+	url = https://github.com/murbanski/omniauth-microsoft-office365
